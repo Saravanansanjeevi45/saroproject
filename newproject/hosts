@@ -1,4 +1,4 @@
 [jenkins]
 10.0.0.209 ansible_user=ubuntu ansible_ssh_private_key_file=saro-key.pem
-[jenkins-slave]
+[jenkins_slave]
 10.0.0.219 ansible_user=ubuntu ansible_ssh_private_key_file=saro-key.pem
